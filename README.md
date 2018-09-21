@@ -1,2 +1,2 @@
-# usaco-training
-Code for problems from USACO on-line training site
+# Competitive Programming
+Code for variety of Competitive Programming problems
